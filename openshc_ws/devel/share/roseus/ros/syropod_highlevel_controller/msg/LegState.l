@@ -1,0 +1,1 @@
+/home/kavek/openshc_ws/devel/.private/syropod_highlevel_controller/share/roseus/ros/syropod_highlevel_controller/msg/LegState.l

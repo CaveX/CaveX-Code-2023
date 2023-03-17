@@ -1,0 +1,27 @@
+syropod_remote
+/home/kavek/openshc_ws/devel/.private/syropod_remote/cmake.lock /home/kavek/openshc_ws/devel/./cmake.lock
+/home/kavek/openshc_ws/devel/.private/syropod_remote/lib/pkgconfig/syropod_remote.pc /home/kavek/openshc_ws/devel/lib/pkgconfig/syropod_remote.pc
+/home/kavek/openshc_ws/devel/.private/syropod_remote/lib/syropod_remote/syropod_remote /home/kavek/openshc_ws/devel/lib/syropod_remote/syropod_remote
+/home/kavek/openshc_ws/devel/.private/syropod_remote/lib/python3/dist-packages/syropod_remote/__init__.py /home/kavek/openshc_ws/devel/lib/python3/dist-packages/syropod_remote/__init__.py
+/home/kavek/openshc_ws/devel/.private/syropod_remote/lib/python3/dist-packages/syropod_remote/msg/__init__.py /home/kavek/openshc_ws/devel/lib/python3/dist-packages/syropod_remote/msg/__init__.py
+/home/kavek/openshc_ws/devel/.private/syropod_remote/lib/python3/dist-packages/syropod_remote/msg/_AndroidJoy.py /home/kavek/openshc_ws/devel/lib/python3/dist-packages/syropod_remote/msg/_AndroidJoy.py
+/home/kavek/openshc_ws/devel/.private/syropod_remote/lib/python3/dist-packages/syropod_remote/msg/_AndroidSensor.py /home/kavek/openshc_ws/devel/lib/python3/dist-packages/syropod_remote/msg/_AndroidSensor.py
+/home/kavek/openshc_ws/devel/.private/syropod_remote/include/syropod_remote/AndroidJoy.h /home/kavek/openshc_ws/devel/include/syropod_remote/AndroidJoy.h
+/home/kavek/openshc_ws/devel/.private/syropod_remote/include/syropod_remote/AndroidSensor.h /home/kavek/openshc_ws/devel/include/syropod_remote/AndroidSensor.h
+/home/kavek/openshc_ws/devel/.private/syropod_remote/share/gennodejs/ros/syropod_remote/_index.js /home/kavek/openshc_ws/devel/share/gennodejs/ros/syropod_remote/_index.js
+/home/kavek/openshc_ws/devel/.private/syropod_remote/share/gennodejs/ros/syropod_remote/msg/_index.js /home/kavek/openshc_ws/devel/share/gennodejs/ros/syropod_remote/msg/_index.js
+/home/kavek/openshc_ws/devel/.private/syropod_remote/share/gennodejs/ros/syropod_remote/msg/AndroidSensor.js /home/kavek/openshc_ws/devel/share/gennodejs/ros/syropod_remote/msg/AndroidSensor.js
+/home/kavek/openshc_ws/devel/.private/syropod_remote/share/gennodejs/ros/syropod_remote/msg/AndroidJoy.js /home/kavek/openshc_ws/devel/share/gennodejs/ros/syropod_remote/msg/AndroidJoy.js
+/home/kavek/openshc_ws/devel/.private/syropod_remote/share/common-lisp/ros/syropod_remote/msg/AndroidSensor.lisp /home/kavek/openshc_ws/devel/share/common-lisp/ros/syropod_remote/msg/AndroidSensor.lisp
+/home/kavek/openshc_ws/devel/.private/syropod_remote/share/common-lisp/ros/syropod_remote/msg/_package.lisp /home/kavek/openshc_ws/devel/share/common-lisp/ros/syropod_remote/msg/_package.lisp
+/home/kavek/openshc_ws/devel/.private/syropod_remote/share/common-lisp/ros/syropod_remote/msg/_package_AndroidJoy.lisp /home/kavek/openshc_ws/devel/share/common-lisp/ros/syropod_remote/msg/_package_AndroidJoy.lisp
+/home/kavek/openshc_ws/devel/.private/syropod_remote/share/common-lisp/ros/syropod_remote/msg/_package_AndroidSensor.lisp /home/kavek/openshc_ws/devel/share/common-lisp/ros/syropod_remote/msg/_package_AndroidSensor.lisp
+/home/kavek/openshc_ws/devel/.private/syropod_remote/share/common-lisp/ros/syropod_remote/msg/AndroidJoy.lisp /home/kavek/openshc_ws/devel/share/common-lisp/ros/syropod_remote/msg/AndroidJoy.lisp
+/home/kavek/openshc_ws/devel/.private/syropod_remote/share/common-lisp/ros/syropod_remote/msg/syropod_remote-msg.asd /home/kavek/openshc_ws/devel/share/common-lisp/ros/syropod_remote/msg/syropod_remote-msg.asd
+/home/kavek/openshc_ws/devel/.private/syropod_remote/share/syropod_remote/cmake/syropod_remoteConfig.cmake /home/kavek/openshc_ws/devel/share/syropod_remote/cmake/syropod_remoteConfig.cmake
+/home/kavek/openshc_ws/devel/.private/syropod_remote/share/syropod_remote/cmake/syropod_remoteConfig-version.cmake /home/kavek/openshc_ws/devel/share/syropod_remote/cmake/syropod_remoteConfig-version.cmake
+/home/kavek/openshc_ws/devel/.private/syropod_remote/share/syropod_remote/cmake/syropod_remote-msg-extras.cmake /home/kavek/openshc_ws/devel/share/syropod_remote/cmake/syropod_remote-msg-extras.cmake
+/home/kavek/openshc_ws/devel/.private/syropod_remote/share/syropod_remote/cmake/syropod_remote-msg-paths.cmake /home/kavek/openshc_ws/devel/share/syropod_remote/cmake/syropod_remote-msg-paths.cmake
+/home/kavek/openshc_ws/devel/.private/syropod_remote/share/roseus/ros/syropod_remote/manifest.l /home/kavek/openshc_ws/devel/share/roseus/ros/syropod_remote/manifest.l
+/home/kavek/openshc_ws/devel/.private/syropod_remote/share/roseus/ros/syropod_remote/msg/AndroidJoy.l /home/kavek/openshc_ws/devel/share/roseus/ros/syropod_remote/msg/AndroidJoy.l
+/home/kavek/openshc_ws/devel/.private/syropod_remote/share/roseus/ros/syropod_remote/msg/AndroidSensor.l /home/kavek/openshc_ws/devel/share/roseus/ros/syropod_remote/msg/AndroidSensor.l

@@ -1,0 +1,1 @@
+/home/kavek/openshc_ws/devel/.private/syropod_highlevel_controller/lib/python3/dist-packages/syropod_highlevel_controller/msg/_TargetTipPose.py

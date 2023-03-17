@@ -1,0 +1,1 @@
+/home/kavek/openshc_ws/devel/.private/syropod_remote/share/roseus/ros/syropod_remote/manifest.l

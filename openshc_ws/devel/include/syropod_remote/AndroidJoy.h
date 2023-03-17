@@ -1,0 +1,1 @@
+/home/kavek/openshc_ws/devel/.private/syropod_remote/include/syropod_remote/AndroidJoy.h
